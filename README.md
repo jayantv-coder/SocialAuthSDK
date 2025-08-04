@@ -18,7 +18,7 @@ A lightweight SDK for seamless Google and Apple authentication integration in iO
 ### Swift Package Manager (Recommended)
 
 1. In Xcode: **File** → **Add Packages...**
-2. Enter URL: `https://github.com/[YOUR_USERNAME]/SocialAuthSDK.git`
+2. Enter URL: `https://github.com/jayantv-coder/SocialAuthSDK.git`
 3. Select version rules
 4. Add to your target
 
