@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SocialAuthSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Lightweight Social Login SDK for iOS with Google and Apple Sign-In support'
   s.description      = <<-DESC
 A lightweight SDK that provides easy integration with Google and Apple Sign-In for iOS applications.
