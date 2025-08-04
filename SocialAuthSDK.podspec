@@ -8,7 +8,7 @@ A lightweight SDK that provides easy integration with Google and Apple Sign-In f
 
   s.homepage         = 'https://github.com/jayantv-coder/SocialAuthSDK.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Your Name' => 'your.email@example.com' }
+  s.author           = { 'Your Name' => 'jayant.v@samcomtechnobrains.com' }
   s.source           = { :git => 'https://github.com/jayantv-coder/SocialAuthSDK.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
@@ -17,7 +17,4 @@ A lightweight SDK that provides easy integration with Google and Apple Sign-In f
   s.dependency 'GoogleSignIn', '~> 7.1.0'
   # Apple Sign-In is built-in, no additional dependency needed
   s.frameworks = 'AuthenticationServices', 'Foundation'
-  s.test_spec 'Tests' do |test_spec|
-    test_spec.source_files = 'Tests/SocialAuthSDKTests/**/*.swift'
-  end
 end
